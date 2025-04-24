@@ -49,11 +49,13 @@ Acesse pelo navegador:
 
 http://localhost:8000/php-moderno
 
-🧑‍🏫 Créditos
+## 🧑‍🏫 Créditos
+
 Curso criado por Gustavo Guanabara
 📺 Canal Curso em Vídeo
 
-📄 Licença
+## 📄 Licença
+
 Este repositório é apenas um material de apoio educacional e não é oficial.
 Todo o conteúdo do curso é de autoria do Curso em Vídeo.
 Sinta-se livre para estudar, praticar e compartilhar! 📚
