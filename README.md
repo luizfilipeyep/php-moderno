@@ -31,13 +31,9 @@ Este curso é uma atualização completa do tradicional curso de PHP, agora com 
 
 ## 🗂 Estrutura do Repositório
 
-📁 /aulas ├── aula01/ ├── aula02/ └── ... 📁 /exercicios ├── ex01.php └── ... 📄 README.md
+📁 /php-moderno ├── ex000/ ├── index.php
 
-yaml
-Copiar
-Editar
-
-Cada pasta de aula contém os arquivos correspondentes ao conteúdo apresentado no vídeo. Os exercícios são implementações práticas sugeridas durante o curso.
+Cada pasta de exercício contém os arquivos correspondentes ao conteúdo apresentado no vídeo. Os exercícios são implementações práticas sugeridas durante o curso.
 
 ---
 
@@ -45,13 +41,14 @@ Cada pasta de aula contém os arquivos correspondentes ao conteúdo apresentado 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/php-moderno-guanabara.git
+   git clone https://github.com/luizfilipeyep/php-moderno
 Execute em um servidor local (XAMPP, Laragon, ou PHP embutido):
 
 php -S localhost:8000
 Acesse pelo navegador:
 
-http://localhost:8000/aulas/aula01
+http://localhost:8000/php-moderno
+
 🧑‍🏫 Créditos
 Curso criado por Gustavo Guanabara
 📺 Canal Curso em Vídeo
